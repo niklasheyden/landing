@@ -1,0 +1,23 @@
+.cards-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.card {
+  width: 200px;
+  height: 250px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  text-align: center;
+}
+
+.card img {
+  height: 100px;
+}
+
+.card p {
+  color: rgb(180, 180, 180);
+}
